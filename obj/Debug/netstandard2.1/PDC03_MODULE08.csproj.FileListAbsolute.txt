@@ -1,0 +1,17 @@
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\bin\Debug\netstandard2.1\PDC03_MODULE08.deps.json
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\bin\Debug\netstandard2.1\PDC03_MODULE08.dll
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\bin\Debug\netstandard2.1\PDC03_MODULE08.pdb
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\PDC03_MODULE08.csproj.AssemblyReference.cache
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\PDC03_MODULE08.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\App.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\MainPage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\View\ShowEmployeePage.xaml.g.cs
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\PDC03_MODULE08.AssemblyInfoInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\PDC03_MODULE08.AssemblyInfo.cs
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\PDC03_MODULE08.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\XamlC.stamp
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\PDC03_MODULE08.dll
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\refint\PDC03_MODULE08.dll
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\PDC03_MODULE08.pdb
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\ref\PDC03_MODULE08.dll
+C:\Users\User\source\repos\PDC03_MODULE08\PDC03_MODULE08\PDC03_MODULE08\obj\Debug\netstandard2.1\View\AddEmployee.xaml.g.cs
